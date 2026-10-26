@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120">
+  <defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#1a1a3a"/><stop offset="100%" style="stop-color:#0d0d2b"/></linearGradient></defs>
+  <rect width="100" height="120" fill="url(#bg)" rx="8"/>
+  <ellipse cx="50" cy="60" rx="20" ry="35" fill="#ff88cc"/>
+  <circle cx="50" cy="30" r="16" fill="#ffaadd"/>
+  <circle cx="44" cy="28" r="4" fill="#ff00aa"/>
+  <circle cx="56" cy="28" r="4" fill="#ff00aa"/>
+  <circle cx="44" cy="27" r="1.5" fill="#fff"/>
+  <circle cx="56" cy="27" r="1.5" fill="#fff"/>
+  <path d="M35 55 Q50 40 65 55" stroke="#ff66bb" fill="none" stroke-width="3"/>
+  <path d="M35 70 Q50 55 65 70" stroke="#ff66bb" fill="none" stroke-width="3"/>
+  <path d="M35 85 Q50 70 65 85" stroke="#ff66bb" fill="none" stroke-width="3"/>
+  <circle cx="50" cy="60" r="10" fill="#ff00aa"/>
+  <circle cx="50" cy="60" r="5" fill="#ff44cc"/>
+  <text x="50" y="115" text-anchor="middle" font-size="8" fill="#ff44aa" font-family="monospace">ARMISAEL</text>
+</svg>
